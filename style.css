@@ -28,12 +28,14 @@
   font-weight: bold;
 }
 
+/* Hero Section */
 .hero {
   background: #f1f1f1;
   text-align: center;
   padding: 3rem 1rem;
 }
 
+/* Products */
 .products {
   padding: 2rem;
   text-align: center;
@@ -77,6 +79,7 @@
   cursor: pointer;
 }
 
+/* Footer */
 footer {
   text-align: center;
   padding: 1rem;
