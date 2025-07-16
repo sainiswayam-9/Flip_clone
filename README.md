@@ -1,26 +1,15 @@
-# Flipkart Mini – E-commerce Landing Page 🛍️
+# Flipkart Mini Clone
 
-A responsive landing page inspired by Flipkart, built using HTML, CSS, and vanilla JavaScript. It features a clean UI with a top navigation bar, hero section, product grid layout, and a footer.
+🛒 A mini replica of Flipkart’s homepage built using HTML and CSS.
 
-## 🔧 Features:
-- Responsive layout using Flexbox and Grid
-- Product cards with images, pricing, and "Buy Now" buttons
-- Clean navigation bar with branding
-- Smooth hover effects and card animations
-- Hosted on GitHub Pages
-
-## 🛠 Tech Stack:
+## 🔧 Technologies Used
 - HTML5
-- CSS3
-- JavaScript (optional enhancements)
+- CSS3 (Flexbox, Grid)
 
-## 📸 Preview:
-*Insert screenshot here*
+## 📌 Features
+- Responsive layout (desktop and mobile)
+- Navigation bar and product section
+- Product cards styled to mimic real e-commerce layout
 
-## 🚀 Live Demo:
-[View Live](https://sainiswayam-9.github.io/flipkart-landing)
-
-## 📁 Folder Structure:
-- `index.html` – HTML structure
-- `style.css` – Styling and layout
-- `images/` – Product images
+## 🔗 Live Demo
+[Click to View](https://sainiswayam-9.github.io/Flip_clone/)
